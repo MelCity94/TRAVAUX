@@ -1,0 +1,61 @@
+table
+{
+	border: 3px solid #6495ed;
+	width: 60%;
+	margin: auto;
+	background-color: #D0E3FA;
+}
+
+
+tr
+{
+	height: 50px;
+}
+
+
+th
+{
+	font-family:  Verdana;
+	font-size: 1.20em;
+	text-align: center;
+	border: 1px solid #000099;
+	background-color: #D0E3FA;
+	background-image: url("fond_bleu.jpg");
+}
+
+
+h1
+{
+	font-family: Arial;
+	font-size: 2em;
+	text-align: center;
+	margin: 20px;
+	border: 1px solid;
+	border-color: #D0E3FA
+}
+
+
+td
+{
+	background-color: #fff;
+	font-size: 0.80em;
+	text-align: center;
+	padding: 5px;
+	border: 1px solid #6495ed;
+}
+.france
+{
+	background-image: url(france.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-size: 1rem;
+
+}
+
+.USA
+{
+	background-image: url(usa.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-size: 1rem;
+}

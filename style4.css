@@ -1,0 +1,105 @@
+.page
+{
+	border: 5px solid darkred;
+	border-radius: 4px;
+	width: 780px;
+	height: 1000px;
+	font-family: tahoma;
+	font-size: 16px;
+	margin: auto;
+	box-shadow: 2px 4px 3px black;
+	padding: 20px;
+
+}
+
+.entete
+{
+
+
+	border-radius: 4px;
+	font-family: tahoma;
+	font-size: 5px;
+	margin: auto;
+	box-shadow: 2px 4px 3px black;
+	padding: 20px;
+	height: 120px;
+
+
+}
+
+.info
+{
+
+	border-radius: 4px;
+	font-family: tahoma;
+	font-size: 10px;
+	padding:  10px;
+	width: 150px;
+	height: 85px;
+	float: left;
+
+
+}
+
+.photo
+{
+ 
+float: right;
+padding-right:  10px;
+padding-left:  10px;
+
+}
+
+img{
+	height: 100px;
+	width: 80px;
+}
+
+.formation
+{
+	margin-top: 20px;
+	
+	border-radius: 4px;
+	font-family: tahoma;
+	font-size: 5px;
+	box-shadow: 2px 4px 3px black;
+	padding: 20px;
+	height: 150px;
+
+
+}
+.date
+{
+	
+	border-radius: 4px;
+	font-family: tahoma;
+	font-size: 9px;
+	padding:  10px;
+	width: 125px;
+	height: 100px;
+	float: left;
+}
+
+.form
+{
+
+	
+	font-size: 11px;
+	height: 400xp;
+	width: 550px;
+	float: right;
+	margin-left: 20px;
+}
+
+.Xppro
+{
+margin-top: 20px;
+	
+	border-radius: 4px;
+	font-family: tahoma;
+	font-size: 11px;
+	box-shadow: 2px 4px 3px black;
+	padding: 20px;
+	height: 150px;
+
+}
